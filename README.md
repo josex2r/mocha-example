@@ -13,5 +13,5 @@ Entorno de testing con [mocha](https://mochajs.org/#installation) y [eslint](htt
 git clone https://github.com/josex2r/mocha-example.git
 cd mocha-example
 npm install
-npm server
+npm test
 ```
